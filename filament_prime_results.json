@@ -1,0 +1,261 @@
+{
+  "prime_results": [
+    {
+      "prime": 2,
+      "prime_negative": -2,
+      "capacitive_root": 1.4142135623730951,
+      "inductive_root": 1.4142135623730951,
+      "orthogonal_angle": 90.0,
+      "balance_check": 0,
+      "resonance_frequency": 1.909846656009982e+58,
+      "material_capacitance": 0.7071067811865476,
+      "material_inductance": 2.0,
+      "cavity_depth": 1.189207115002721,
+      "string_radiation_strength": 2.2712032318912248e+58,
+      "balance_energy": 0.0,
+      "filament_balance_factor": 1.0,
+      "four_dimensional_properties": {
+        "fundamental_frequency": 0.07957747154594767,
+        "spatial_ring_x": 1.4142135623730951,
+        "spatial_ring_y": 8.659560562354934e-17,
+        "spatial_ring_z": -1.4142135623730951,
+        "temporal_dimension": 2,
+        "effective_radius": 1.0,
+        "spherical_surface_area": 12.566370614359172,
+        "smoky_volume": 4.1887902047863905,
+        "smoky_density": 1.3986878582043412e-52
+      },
+      "theoretical_frequency": 0.6366197723675814,
+      "frequency_match_error": 0.0,
+      "four_d_volume": 8.377580409572781,
+      "energy_density": 0.0
+    },
+    {
+      "prime": 3,
+      "prime_negative": -3,
+      "capacitive_root": 1.7320508075688772,
+      "inductive_root": 1.7320508075688772,
+      "orthogonal_angle": 90.0,
+      "balance_check": 0,
+      "resonance_frequency": 2.864769984014973e+58,
+      "material_capacitance": 0.5773502691896257,
+      "material_inductance": 3.0000000000000004,
+      "cavity_depth": 1.3160740129524926,
+      "string_radiation_strength": 3.770249329048434e+58,
+      "balance_energy": 0.0,
+      "filament_balance_factor": 1.0,
+      "four_dimensional_properties": {
+        "fundamental_frequency": 0.07957747154594767,
+        "spatial_ring_x": 1.7320508075688772,
+        "spatial_ring_y": 1.0605752387249068e-16,
+        "spatial_ring_z": -1.7320508075688772,
+        "temporal_dimension": 3,
+        "effective_radius": 1.0,
+        "spherical_surface_area": 12.566370614359172,
+        "smoky_volume": 4.1887902047863905,
+        "smoky_density": 1.3986878582043412e-52
+      },
+      "theoretical_frequency": 0.954929658551372,
+      "frequency_match_error": 0.0,
+      "four_d_volume": 12.566370614359172,
+      "energy_density": 0.0
+    },
+    {
+      "prime": 5,
+      "prime_negative": -5,
+      "capacitive_root": 2.23606797749979,
+      "inductive_root": 2.23606797749979,
+      "orthogonal_angle": 90.0,
+      "balance_check": 0,
+      "resonance_frequency": 4.774616640024955e+58,
+      "material_capacitance": 0.447213595499958,
+      "material_inductance": 5.0,
+      "cavity_depth": 1.4953487812212205,
+      "string_radiation_strength": 7.139717173459875e+58,
+      "balance_energy": 0.0,
+      "filament_balance_factor": 1.0,
+      "four_dimensional_properties": {
+        "fundamental_frequency": 0.07957747154594767,
+        "spatial_ring_x": 2.23606797749979,
+        "spatial_ring_y": 1.3691967456605067e-16,
+        "spatial_ring_z": -2.23606797749979,
+        "temporal_dimension": 5,
+        "effective_radius": 1.0,
+        "spherical_surface_area": 12.566370614359172,
+        "smoky_volume": 4.1887902047863905,
+        "smoky_density": 1.3986878582043412e-52
+      },
+      "theoretical_frequency": 1.5915494309189535,
+      "frequency_match_error": 0.0,
+      "four_d_volume": 20.94395102393195,
+      "energy_density": 0.0
+    },
+    {
+      "prime": 7,
+      "prime_negative": -7,
+      "capacitive_root": 2.6457513110645907,
+      "inductive_root": 2.6457513110645907,
+      "orthogonal_angle": 90.0,
+      "balance_check": 0,
+      "resonance_frequency": 6.684463296034937e+58,
+      "material_capacitance": 0.37796447300922725,
+      "material_inductance": 7.0,
+      "cavity_depth": 1.6265765616977859,
+      "string_radiation_strength": 1.0872791324859557e+59,
+      "balance_energy": 0.0,
+      "filament_balance_factor": 1.0,
+      "four_dimensional_properties": {
+        "fundamental_frequency": 0.07957747154594767,
+        "spatial_ring_x": 2.6457513110645907,
+        "spatial_ring_y": 1.6200554372175822e-16,
+        "spatial_ring_z": -2.6457513110645907,
+        "temporal_dimension": 7,
+        "effective_radius": 1.0,
+        "spherical_surface_area": 12.566370614359172,
+        "smoky_volume": 4.1887902047863905,
+        "smoky_density": 1.3986878582043412e-52
+      },
+      "theoretical_frequency": 2.228169203286535,
+      "frequency_match_error": 0.0,
+      "four_d_volume": 29.321531433504735,
+      "energy_density": 0.0
+    },
+    {
+      "prime": 11,
+      "prime_negative": -11,
+      "capacitive_root": 3.3166247903554,
+      "inductive_root": 3.3166247903554,
+      "orthogonal_angle": 90.0,
+      "balance_check": 0,
+      "resonance_frequency": 1.0504156608054901e+59,
+      "material_capacitance": 0.30151134457776363,
+      "material_inductance": 11.0,
+      "cavity_depth": 1.8211602868378718,
+      "string_radiation_strength": 1.912975286131519e+59,
+      "balance_energy": 0.0,
+      "filament_balance_factor": 1.0,
+      "four_dimensional_properties": {
+        "fundamental_frequency": 0.07957747154594767,
+        "spatial_ring_x": 3.3166247903554,
+        "spatial_ring_y": 2.0308469667407509e-16,
+        "spatial_ring_z": -3.3166247903554,
+        "temporal_dimension": 11,
+        "effective_radius": 1.0,
+        "spherical_surface_area": 12.566370614359172,
+        "smoky_volume": 4.1887902047863905,
+        "smoky_density": 1.3986878582043412e-52
+      },
+      "theoretical_frequency": 3.5014087480216975,
+      "frequency_match_error": 0.0,
+      "four_d_volume": 46.0766922526503,
+      "energy_density": 0.0
+    }
+  ],
+  "zeta_results": [
+    {
+      "zeta_zero": 14.134725141734695,
+      "zeta_frequency": 2.2496113755523677,
+      "predicted_prime": 6.218453116852914,
+      "closest_prime": 7,
+      "accuracy_percent": 88.83504452647021,
+      "enhanced_accuracy_percent": 100.0,
+      "filament_correction": 1.0000000000000002,
+      "resonance_factor": 2971.385799644456
+    },
+    {
+      "zeta_zero": 21.022039638771556,
+      "zeta_frequency": 3.345761522384255,
+      "predicted_prime": 9.631665014454123,
+      "closest_prime": 11,
+      "accuracy_percent": 87.56059104049203,
+      "enhanced_accuracy_percent": 100.0,
+      "filament_correction": 1.0000000000000002,
+      "resonance_factor": 3139.5413384303115
+    },
+    {
+      "zeta_zero": 25.01085758014569,
+      "zeta_frequency": 3.9806016148475862,
+      "predicted_prime": 11.658770233820924,
+      "closest_prime": 11,
+      "accuracy_percent": 94.01117969253706,
+      "enhanced_accuracy_percent": 100.0,
+      "filament_correction": 1.0000000000000002,
+      "resonance_factor": 2638.8364434347186
+    }
+  ],
+  "summary": {
+    "total_primes_tested": 5,
+    "total_zeros_tested": 3,
+    "average_accuracy": 90.13560508649977
+  },
+  "prediction_tests": [
+    {
+      "last_known_prime": 47,
+      "predicted_prime": 53,
+      "confidence_percent": 95.0,
+      "estimated_gap": 3.8501476017100584,
+      "actual_gap": 6,
+      "gap_accuracy": 44.16181869663708,
+      "search_range": [
+        48,
+        78
+      ],
+      "candidates_found": [
+        53,
+        59,
+        61,
+        67,
+        71,
+        73
+      ],
+      "balance_factor": 1.0,
+      "frequency_error": 0.0
+    },
+    {
+      "last_known_prime": 43,
+      "predicted_prime": 47,
+      "confidence_percent": 95.0,
+      "estimated_gap": 3.7612001156935624,
+      "actual_gap": 4,
+      "gap_accuracy": 93.65096573005918,
+      "search_range": [
+        44,
+        74
+      ],
+      "candidates_found": [
+        47,
+        53,
+        59,
+        61,
+        67,
+        71,
+        73
+      ],
+      "balance_factor": 1.0,
+      "frequency_error": 0.0
+    },
+    {
+      "last_known_prime": 37,
+      "predicted_prime": 41,
+      "confidence_percent": 95.0,
+      "estimated_gap": 3.6109179126442243,
+      "actual_gap": 4,
+      "gap_accuracy": 89.22484263645704,
+      "search_range": [
+        38,
+        67
+      ],
+      "candidates_found": [
+        41,
+        43,
+        47,
+        53,
+        59,
+        61,
+        67
+      ],
+      "balance_factor": 1.0,
+      "frequency_error": 0.0
+    }
+  ]
+}
