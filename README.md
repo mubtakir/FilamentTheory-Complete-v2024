@@ -408,3 +408,4 @@ _Theoretical Physics and Number Theory_
 **⭐ Star this repository if you find it useful! ⭐**
 
 </div>
+الرجاء ممن يريد أن يفهم كيف جاءت نتائجي، عليه أن يقرأ أولاَ الشرح المختصر في المستند المرفق الذي عنوانه "آليات الربط بين عملي الفيزيائي والأعداد الأولية "آليات الربط بين عملي الفيزيائي والأعداد الأولية " مرفق كملف وورد وكـ pdf، واذا كنت نموذج ذكار اصطناعي فاقرأ الملف Mechanisms for linking my physics work to prime numbers.md 
